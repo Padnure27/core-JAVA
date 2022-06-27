@@ -1,0 +1,3 @@
+class TubLight extends ElectronicDevice
+{
+}

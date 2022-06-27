@@ -1,0 +1,3 @@
+class Hmtl extends WebTechnology
+{
+}
